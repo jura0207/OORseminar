@@ -1,5 +1,6 @@
 # OORseminar
-(1) Uvod
+====== Struktura
+## (1) Uvod
 Generalno sranja o industriji, ekonomiji, definicije blah. Gluposti o tome kako su se te grane razvile i postale kompleksnije u zadnjih par stoljeca. Kako je razvoj industrije u pojedinim zemljama definirano svjetsku pozornicu danas lol i stvorio danasnje politicke i industrijske velesile. Malo korelacija i teoretiziranje na osnovu toga. Natuknuti detaljnjiju analizu u ostatku rada. Motivacija blah blah
 
 ## (2) Industrija
