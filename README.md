@@ -1,7 +1,7 @@
 Formatting
 ====== 
   * pisemo u .txt, kasnije cu prebaciti .doc pa .pdf, brze bolje, za git jednostavnije
-  * uredjujte file koji je vec na gitu da se olaksa spajanje
+  * uredjujte file `seminar.txt` koji je vec na gitu da se olaksa spajanje
   * kad zavrsite dio provucite ga kroz [ispravi.me] cisto da ne moram na kraju
   * `(1)` oznacava prvo poglavlje, ako poglavlje ima 3 podnaslove onda `(1.1)`...`(1.2)`...
   * `[slika 1.1]` je prva slika u prvom poglavlju, `[izvor 1.1]` prvi izvor u prvom poglavlju, `[graf 1.1]` je prvi graf/dijagram/lalala
