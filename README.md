@@ -4,7 +4,7 @@ Formatting
   * uredjujte file koji je vec na gitu da se olaksa spajanje
   * kad zavrsite dio provucite ga kroz [ispravi.me] cisto da ne moram na kraju
   * `(1)` oznacava prvo poglavlje, ako poglavlje ima 3 podnaslove onda `(1.1)`...`(1.2)`...
-  * `[1.1]` je prva slika u prvom poglavlju, `{1.1}` prvi izvor u prvom poglavlju
+  * `[slika 1.1]` je prva slika u prvom poglavlju, `[izvor 1.1]` prvi izvor u prvom poglavlju, `[graf 1.1]` je prvi graf/dijagram/lalala
   * za izvore linkove ili ono ak je knjiga napisite isti tag na kraju fajla i taj shit, slike picite u folder na githubu, naziv je ono sto se nalazi u zagradi unutar teksta
   * `<i>,<b>,<u>` su oznake za italic,bold,underline, inace se zatvarajuu s `</>` al kak vam se da
 
