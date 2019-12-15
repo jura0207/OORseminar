@@ -1,6 +1,16 @@
-Struktura
+Formatting
 ====== 
-## (1) Uvod
+⋅⋅* pisemo u .txt, kasnije cu prebaciti .doc pa .pdf, brze bolje, za git jednostavnije
+⋅⋅* uredjujte file koji je vec na gitu da se olaksa spajanje
+⋅⋅* kad zavrsite dio provucite ga kroz ispravi.me cisto da ne moram na kraju
+⋅⋅* (1) oznacava prvo poglavlje, ako poglavlje ima 3 podnaslove onda (1.1)...(1.2)...
+⋅⋅* [1.1] je prva slika u prvom poglavlju, {1.1} prvi izvor u prvom poglavlju
+⋅⋅* za izvore linkove ili ono ak je knjiga napisite isti tag na kraju fajla i taj shit, slike picite u folder na githubu, naziv je ono sto se nalazi u zagradi unutar teksta
+⋅⋅* <i>,<b>,<u> su oznake za italic,bold,underline, inace se zatvarajuu s </> al kak vam se da
+
+Struktura
+======
+### (1) Uvod
 Generalno sranja o industriji, ekonomiji, definicije blah. Gluposti o tome kako su se te grane razvile i postale kompleksnije u zadnjih par stoljeca. Kako je razvoj industrije u pojedinim zemljama definirano svjetsku pozornicu danas lol i stvorio danasnje politicke i industrijske velesile. Malo korelacija i teoretiziranje na osnovu toga. Natuknuti detaljnjiju analizu u ostatku rada. Motivacija blah blah
 
 ### (2) Industrija
