@@ -82,6 +82,14 @@ Velesila je nacija ili država koja ima sposobnost da vrši svoj utjecaj na glob
   
 
 (6) Utjecaj industrije na ekonomiju Republike Hrvatske danas
+Hrvatska u devedesetima izlaskom iz Socijalističke Federativne Republike Jugoslavije (SFRJ) ostvaruje tranziciju prema otvorenom tržišnom gospodarstvu, u kojem prevladava tercijarni sektor uslužnih djelatnosti. Pogođena 2009. godine teškom svjetskom financijskom krizom, ostala je jedna od najjačih ekonomija u jugoistočnoj Europi. Glavne gospodarske grane Hrvatske čine poljoprivreda, prehrambena industrija, tekstilna industrija, drvoprerađivačka industrija, metaloprerađivačka industrija, kemijska industrija, naftna industrija, elektroindustrija, graditeljstvo, trgovina, brodogradnja, pomorstvo i turizam.
+Trenutno stanje hrvatskog gospodarstva je tipično kao i za zemlje u tranziciji iz komunizma. Došlo je do privatizacije i preustroja u svim područjima, no to se nije sasvim provelo uspješno. Glavni problemi su velika nezaposlenost i slabe gospodarske reforme. Industrijska proizvodnja zbog ratnih okolnosti i najčešće protuzakonito izvedene privatizacije i zastarjele tehnologije u proizvodnji. Danas još nisu dostigla onu iz 1990. godine. Dodatno otežavaju situaciju i loš sustav sudstva i administracije, pogotovo kod vlasništva nekretnina. Također hrvatsko gospodarstvo otežava premala proizvodnja, nedovoljan izvoz, nezaposlenost, prezaduženost, odlazak mladih obrazovanih ljudi, pravosuđe, uprava i korupcija. 
+Hrvatski BDP se tek izjednačio 2003. godine s onim prije raspada Jugoslavije i prijelaza na tržišno gospodarstvo 1990. godine. U razdoblju od 2004. do 2008. godine BDP je narastao za ukupno 23%, no radi recesije 2009. godine, BDP je pao na 13%. Tek nakon 2015. Hrvatskoj počinje rasti BDP. Inflacija je 1991. godine iznosila ogromnih 938%, no to se uspjelo stabilizirati. Stopa inflacije se polako smanjivala dok je imala najveći pad 2008. godine sa 6.1%. Hrvatska monetarna politika je politika monetarne stabilnosti, koja uključuje stabilan tečaj, nisku inflaciju i visoke rezerve, iako to može naštetiti izvozu koji ni trenutno nije samoodrživ.
+Problem hrvatskog gospodarstva i dalje ostaje veliki deficitni omjer uvoza i izvoza. Hrvatska obilježava dva puta veću vrijednost uvoza od izvoza, te rastući robni deficit. 2005. godine izvoz je iznosio 9.8 milijardi USD, a uvoz 18.5 milijardi USD. 2016. ti brojevi su iznosili 13.41 milijarda dolara izvoza i 19.98 milijardi USD dolara uvoza, po čemu možemo vidjeti napredak u trgovanju. Hrvatska najviše izvozi u Italiju (21%), BiH (14.3%), Njemačku (10.6%), Sloveniju  (8%) i Austriju (7.1%) dok najviše uvozi iz Italije (16%), Njemačke (14.8%), Rusije (9.1%), Slovenije (6.7%), Austrije (5.7%) i Francuske (4.1%).
+
+Prema istraživanja UN-a, Hrvatska budućnost ima ozbiljnih problema. Najveći od njih je demografski kolaps. Ostaje sve više staroga stanovništva, a mirovinski i zdravstveni sustav neće moći to podnijeti. Bit će nedostatak radne snage koji će dovesti većeg rasta plaća od produktivnosti i pada konkurentnosti. Negativni demografski trendovi ograničavaju oporavak gospodarstva, a kasnije će biti i gore. Urbanizacija će se teško razviti radi usporene rekonstrukcije gradskih središta.
+Imamo ozbiljnih problema no možda će nam razvoj tehnološke i automobilske industrije indirektno pomoći u vezi demografije.
+
 (7) Zakljucak
 	Istina je, kao što je bilo zdravorazumski pretpostaviti, ekonomija ovisi u visokoj mjeri o industriji. I razvoj industrije, dok god prati načela zaštite okoliša, pratit će razvoj u ekonomiji i tako povećavati standard i kvalitetu života pojedinaca.
 	Kroz daljnji napredak i u ekonomiji, i u industriji, doći ćemo kao čovječanstvo do bolje ideje kako osigurati održivost ekonomije tako da ne bi dolazilo do kriza u ekonomiji što uvijek prati i krah industrije, nakon čega je situacija u zemlji, geopolitičkim savezima i u krajnjem slučaju cijelome svijetu jako teško ispraviti što možemo vidjeti na primjeru Velike recesije 2008. čije posljedice se još uvijek osjete u nekim dijelovima svijeta. Pogotovo u onim zemljama koje ni prije nisu imale dobro postavljene temelje industrije i zbog različitih razloga ekonomiju koja upitno funkcionira.
@@ -106,6 +114,8 @@ IZVORI
 [4.1] http://www.prva.hr/images/pdf/LEKCIJA%2013%20-%20INDUSTRIJSKA%20REVOLUCIJA.pdf
 [4.2] https://hr.wikipedia.org/wiki/Velesila
 [4.3] https://finance.hr/tournament/najvece-svjetske-burze-i-banke/
+[6.1] https://hr.wikipedia.org/wiki/Gospodarstvo_Hrvatske
+[6.2] https://net.hr/danas/hrvatska/un-prognozirao-buducnost-hrvatske-kako-ce-ova-zemlja-izgledati-za-33-godine-imamo-hrpu-ozbiljnih-problema-ali-ovo-zvuci-grozno/
 
 
 SLIKE
