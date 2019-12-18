@@ -1,85 +1,43 @@
 (1) Uvod
-	Novac kao jedan od glavnih motivatora ljudi i neizostavna tema svakodnevnih novina se prvi se puta pojavljuje 1000. godine prije Krista[1.1]. Uveden je kao protuteža za vrijednost stvari koja je morala biti standardizirana i zakonski regulirana kao i tiskana od strane vladara ili tvorevine srodne današnjim državama. 
-	Razvojem novca počela se odmah razvijati i ekonomija (grč. Oikonomia – upravljanje kućom [1.2]), naravno, u svojim počecima ekonomija je bila veoma jednostavna, i nije bila predmet interesa ljudi osim istaknutih pojedinaca. Neki od njih bi bili filozofi koji su postavili prve teorije ekonomije i vladare koji su iste ideje primjenjivali na teritoriju kojim su vladali.
-	Razvoj ekonomije do znanosti koja "proučava kako tvrtke, države i u konačnici cijeli svijet koristi oskudne resurse kako bi u što većoj mjeri zadovoljile svoje potrebe"[1.3] doživljava svoj nagli napredak u 18. stoljeću prateći Prvu industrijsku revoluciju.
-	Iako su ekonomija i industrija oduvijek bili međusobno ovisne ljudske djelatnosti, u vrijeme Prve industrijske revolucije ta poveznica postaje jača nego ikada i istovremeno njihova korelacija postaje sve veći predmet ljudskoga interesa. 
-	U sklopu ovoga rada bit će dani pregledi obje grane ljudskoga djelovanja i njihova povijesni razvoj, iako će koncentracija biti primarno na korelacija između njih. Naslov daje do znanja da ćemo gledati razvoj industrije na razini države i istovremeno kako razvoj industrije u zemljama danim za primjer prate promjere u ekonomiji iste zemlje. Pogledat ćemo i kako je pravovremeni razvoj industrije u povijesti određenih zemalja postavio temelje njihove ekonomije i napravio ih svjetskom kako ekonomskom, industrijskom, tako i političkom velesilom. 
-  
 (2) Industrija
+
+  (2.1) Uvod i povijest industrije 
+  
+  Definicija industrije je organizirani ljudski rad koji uz primjenu strojeva, podjelu rada i specijalizaciju, proizvodi najrazličitije upotrebne vrijednosti preradbom sirovina mineralnog, biljnoga i životinjskoga podrijetla[2.1]. 
+  Povijest industrije započinje s poviješću nastanka organiziranijih ljudskih zajednica u kojima je postojala bilo kakva podjela rada. U prvim organiziranim društvima ta podjela rada se bazirala na osiguravanjima podnošljivih životnih uvjeta i prehrane. Prve proizvodne djelatnosti su započele prelaskom ljudi na sjedilački način života i daljnjim razvitkom oruđa i alata za rad. U takvim okolnostima najviše je prednjačila poljoprivredna proizvodnja i srodne djelatnosti koje su bile bitne za zadovoljavanje bioloških potreba ljudi. Poljoprivredna proizvodnja je ostala glavni faktor sve do pojave industrijske revolucije i automatizacije rada. Ostale, manje bitne djelatnosti u to doba su bile izrada oružja, oruđa i obrađivanje raznih ruda i materijala koji su daljnji napredak doživjeli pojavljivanje manufaktura te gildova i cehova u srednjem i novom vijeku.
+  
+  
+  (2.2) Podjela industrije u sektore i značenje industrije na razvoj društva
+    Industrija se uglavnom dijeli u tri glavna sektora, a to su primarni, sekundarni i tercijarni sektor. Primarni sektor podrazumijeva direktno iskorištavanje zemljinih resursa i u njega ubrajamo djelatnosti kao što su poljoprivreda, rudarstvo, šumarstvo, itd. Sekundarni sektor označava obradu ruda ili već obrađenih materijala kao što su čelik u proizvode koji su primjereniji ljudskom korištenju. U takvim djelatnostima se nalazi industrijska proizvodnja, građevinarstvo, rudarstvo, energetika i razni obrti. Treći sektor je tercijarni kojemu pripadaju uslužne djelatnosti i bazira se na nuđenju raznih usluga nasuprot samoj proizvodnji kao što je slučaj kod ostala dva sektora. Neki ekonomisti idu još dalje u podjeli pa osim tri sektora izdvajaju i kvartarni sektor koji je blizak tercijarnom sektoru a označava većinom djelatnosti koje su vezane uz javnu upravu. Primjer toga su školstvo, zdravstvo, policija i slične službe. 
+    Ovakva podjela je prilično značajna zbog još jednog razloga. Udio gospodarstva u pojedinim sektorima država i ostalih upravnih jedinica je uglavnom sjajan pokazatelj njihovog gospodarskog razvitka te također pokazatelj stupnja razvoja istih. Kod tradicionalnih društava i onih koja su postojala prije industrijske revolucije najveći udio gospodarstva su činile gotovo samo primarne djelatnosti te sekundarne u manjoj mjeri. Primjere takvih društava se danas može naći samo tamo gdje su ona odbacila kontakte s ostatkom svijeta i to podrazumijeva razna plemena u Africi i Južnoj Americi. Društva u kojima najveći udio gospodarstva zauzimaju primarni i sekundarni sektor su ona društva koja su u tranziciji i gdje djeluje proces tranzicije koji označava povećanje industrijske proizvodnje. Takve primjere u svijetu danas nalazimo uglavnom u središnjoj i južnoj Africi. Među najrazvijeniju grupu država i društava pripadaju ona gospodarstva čiji najveći udio pripada tercijarnim djelatnostima i ona se nazivaju postindustrijskim, a čine ih u najvećoj mjeri države sjeverne hemisfere, Australije i Južne Amerike. [SLika 2.1][SLika 2.2]
+    
+  (2.3) Industrijska revolucija i industrijalizacija
+    U svim popisima najznačajnijih povijesnih događaja će se uvijek naći i industrijska revolucija. Taj pojam označava prijelaz iz manufakturalne proizvodnje u postepenu automatizaciju rada i posla, a kao početak se uzima 1764. godina kada je James Watt usavršio parni stroj. Ispočetka se cijela proizvodnja temeljila na iskorištavanju vodene pare i topline kao pokretača strojeva koji su obavljali rad no takvi postupci su potpuno napušteni usavršavanjem primjene električne energije i nafte u obavljanju rada. Taj trenutak se još naziva i druga industrijska revolucija.
+  Direktna posljedica industrijske revolucije je bila industrijalizacija. Industrijalizacija  je socioekonomski pojam koji označava prelazak ljudskih društava iz agrarnih u industrijska. Taj čin je imao dalekosežne  posljedice u promijeni života ljudi i zahvatio  je gotovo sve aspekte ljudskog života. Povećana je prosječna životna dob ljudi, prestao je postojati strah od nedostatka hrane i ostalih osnovnih resursa za život, proizvodi su postali daleko pristupačniji i pojavili su se proizvodni viškovi koji su utjecali na značajan razvitak trgovine, a samim time i na dotad nezamislivo povećanje standarda života.
+  Industrijska revolucija je krenula i Ujedinjenog Kraljevstva te zemlje koje su prve bile zahvaćene industrijalizacijom su zemlje zapadne i središnje Europe i Sjeverne Amerike. Takav razvoj događaja je imao direktan utjecaj na današnju sliku gospodarski najrazvijenijih zemalja svijeta koje su time stekle i značajnu političku, društvenu i drugu prednost nad ostatkom svijeta. [slika 2.3]
+
+[2.1]https://www.hrleksikon.info/definicija/industrija.html
+
+
 (3) Ekonomija
-3.1 Definicija ekonomije
-Cijela ekonomija se može grubo sažeti u tri jednostavna pitanja: što, kako i za koga? Također ekonomija proučava kretanja u cijelom gospodarstvu, kao što su trendovi cijena, proizvodnje, nezaposlenosti I vanjske trgovine. Ono također proučava uvoz i izvoz između dvije ili više zemalja. Prema američkom nobelovcu Paul A. Samuelsonu, ekonomija je znanost koja proučava kako društva koriste oskudne resurse da bi proizvodili dobra i usluge kako bi što bolje zadovoljili svoje potrebe. 
-3.2 Teorije ekonomije
-Postoji devet teorija ekonomije: 
-•	Klasična politička ekonomija, 
-•	Austrijska škola ekonomske misli, 
-•	Neoklasična politička ekonomija, 
-•	Keynes-ov model, 
-•	Monetaristička teorija, 
-•	Nova klasična ekonomija, 
-•	Institucionalizam, 
-•	Marksizam, 
-•	Novi Keynes-ijaizam. 
-Ekonomiju možemo podijeliti na mikroekonomiju i makroekonomiju.
-3.3 Makroekonomija 
-Makroekonomija je grana ekonomske znanosti koja se, za razliku od mikroekonomije, bavi cjelokupnim gospodarstvom nekog područja, proučavajući međusobne odnose ukupne (agregatne) proizvodnje, prihoda, zaposlenosti, cijena i drugih varijabli.
-Makroekonomski ciljevi su: gospodarski rast, stabilnost cijena, puna zaposlenost i pozitivna vanjsko-trgovinska bilanca 
-Makroekonomija je nastala 1936. godine u djelu engleskog ekonomista Johna Maynarda Keynesa “Opća teorija zaposlenosti, kamate i novca”. Do tada se ekonomija pretežno bavila mikroekonomskim problemima pa je njegovo djelo izvršilo prevrat u ekonomskoj teoriji poznatom kao “Keynesijanska revolucija”. Uzrok te revolucije je bila najteža gospodarska kriza zvana Velika kriza ili Velika depresija (1929. – 1933.).
-
-3.4 Mikroekonomija
-Mikroekonomija je grana ekonomije koja proučava pojedinačne gospodarske subjekte kao što su domaćinstva, poduzeća i tržišta, te njihove međusobne odnose. Subjekti se proučavaju s gledišta troškova proizvodnje, oblikovanja i raspodjele profita, oblikovanja cijena, proizvodnje i distribucije roba i usluga pojedinačna tržišta, individualnu štednju i akumulaciju, životni standard i osobnu potrošnju. Ono proučava i donošenje odluka o upotrebi određenih proizvodnih resursa. Jedno od ciljeva makroekonomije je analizirati mehanizme tržišta koji uspostavljaju relativne cijene između roba i usluga i raspodjelu ograničenih resursa. Mikroekonomija analizira i tržišni neuspjeh, kada tržišta ne uspijevaju dati učinkovite rezultate te opisuje teorijske uvjete potrebne za konkurentnost.
-Utemeljitelj mikroekonomije se smatra škotski ekonomist i etičar Adam Smith, koji je 1776. godine napisao djelo “Bogatstvo naroda” što se i danas smatra početkom ekonomske znanosti. U njemu razmatra kako se određuju individualne cijene, proučava odrednice cijene zemlje, rada i kapitala te ispituje snage i slabosti tržišnog mehanizma. Unio je nove ideje kojima je isticana prirodna sloboda pojedinaca. Taj liberalizam koji je zagovarao bio je potpuna suprotnost državnoj kontroli koju su zagovarali merkantilisti. Uz Davida Ricarda najpoznatiji je predstavnik engleske klasične političke ekonomije. Adam Smith drži da pravo bogatstvo ne leži u novcu, kako su tvrdili merkantilisti, nego u korisnomu radu, radu koji stvara prometne vrijednosti. Izrazito se zalagao za liberalizam.
-3.5 Liberalizam
-Liberalizam je svjetonazor koji zagovara smanjenje nadzora države i drugih političkih institucija nad individualnom slobodom pojedinca. Ono politički zagovara demokratske oblike vlasti, a ekonomski tradicionalno, laissez faire, čije je značenje neograničena sloboda tržišta i nemiješanje države u ekonomska pitanja. Liberalizam je borba građanske klase za slobodu mišljenja i neograničenu slobodu tržišta. Začetnici moderne liberalne misli bili su engleski filozofi 16. i 17. stoljeća Thomas Hobbes i John Locke. Locke je pozvao na sekularizaciju u “Pismo o toleranciji” i opisao kako bi moderna pravna država trebala izgledati “Dvije rasprave o vladi”. Ekonomski liberalizam i politiku slobodnog tržišta definirao je kasnije u 18. stoljeću Adam Smith.
-3.6 Marksizam
-Kasnije se pojavljuje i marksizam, s osnivačima njemačkim filozofima Karl H. Marxom i Friedrich Engelsom. Naime, smatrajući da rad čini osnovu vrijednosti nekog proizvoda, Marx je zaključio da se višak rada prisvaja kapitalistima, a protivno pravima radnika koji su uložili svoj rad u taj proizvod. Marksisti naknadno odbacuju druge teorije vrijednosti poput proizvodne teorije vrijednosti i grupe subjektivnih teorija vrijednosti.
-
 (4) Ovisnost ekonomije o industriji
-4.1 Industrijska Revolucija
-Od početka povijesti čovječanstva, ljudi su živjeli i radili na malim seoskim imanjima. Tek sredinom 18. stoljeća dolazi do promjena društva i načina života. Danas to razdoblje promjena nazivamo industrijskom revolucijom. Ona je započela u Velikoj Britaniji izumom parnog stroja. Industrijska Revolucija nije niti iznenadna niti brza, već dugačak i polagani proces. Jednostavni ručni alati su zamijenjeni složenim strojevima koji su dramatično povećali produktivnost svakog rada. Nakon početka u Velikoj Britaniji, revolucija će se proširiti na ostatak Europe, a zatim i na Sjevernu Ameriku te ostatak svijeta.
-Engleska je prva razvila socijalnu strukturu pogodnu za poduzetništvo i ekonomski rast. Engleska je imala mnoge komparativne prednosti u odnosu na kontinentalnu Europu: plodne i produktivne ravnice, brdovite krajeve s bogatim naslagama ugljena i željeza te iznimno dobru morsku povezanost koje je imalo veliku važnost u prometu. Tijekom svake od tri industrijske revolucije, prosječni prihod i populacija su ostvarili održavani rast. Izumom parne lokomotive 1784. godine (James Watt) promet se iznimno poboljšao. Prije lokomotive su se gradili kanali za parne brodove, no izgradnjom željeznice, započela je nova era. Prvo su se gradile u Engleskoj, a zatim i u ostatku Europe poput Francuske, Njemačke, Italije, Belgije, Bugarske, Nizozemske i Rusije, te Sjevernoj Americi i Aziji. U SAD-u se gradnjom željeznica uspjelo povezati unutrašnjost zemlje i zapadnu obalu s istočnom obalom, što je rezultiralo “Zlatnom groznicom” koja je privukla brojne ljude iz cijelog svijeta. Industrijalizacijom je započet proces urbanizacije, a i time znatan porast u ekonomiji. Kapitalističke zemlje su ulagale dosta svojih resursa u razvoj prometa, što se pokazalo ključnim za uspjeh ekonomije tih država. Te zemlje i danas imaju jedne od najsnažnijih transportnih industrija. Najraširenije zrakoplovne industrije – SAD, Kanada, Velika Britanija, Njemačka, Francuska, Španjolska, Rusija, Ukrajina, Japan i Brazil; Željezničke industrije – Njemačka, Francuska, Rusija, Indija, Japan i SAD; brodske industrije – Singapur, Velika Britanija i Kina; i automobilske industrije – Njemačka, SAD, Japan, Italija, Francuska, Kina i Velika Britanija su samo neke od država s najviše razvijenim prometnim industrijama. Možemo zaključiti kako nije slučajno da su te zemlje među najrazvijenijim zemljama po HDI (Human Development Index – hrv. Ljudski razvojni indeks) i BDP-u. Jak razvitak kapitalizma i prometa, rezultirao je stvaranjem burzi koje imaju jaki utjecaj i na današnju ekonomiju.
-
-Burze 
-Burza je centralizirano mjesto razmjene standardiziranih financijskih instrumenata. Instrumenti se prodaju po sustavu kontinuirane aukcije tj. sudionici kupuju i prodaju instrumente tijekom radnog vremena. Ono je također među najutjecajnijim faktorima razvijenosti ekonomije zemalja. 
-Najvećih 5 burzi u svijetu prema World Federation of Exchanges poredane prema vrijednosti svih izlistanih kompanija su:
-1.	NYSE – 18 800 milijardi USD – najpoznatija, ujedno i najveća burza u svijetu nalazi se u New Yorku, poznati Wall Street. Obuhvaća preko 2800 kompanija.
-2.	NASDAQ – 6 700 milijardi USD – National Association of Securities Dealers Automated Quotations, prva potpuno elektronička burza. Danas obuhvaća uglavnom IT i tehnološke kompanije koje nisu dovoljno velike za NYSE
-3.	TSE – 4 500 milijardi dolara – glavni centar na azijskom tržištu je Tokijska burza, no u zadnje vrijeme sve joj više konkuriraju burze u Shanghaiu, Hong Kongu i Shenzhenu. Zajedno te četiri burze obuhvaćaju vrijednost od preko 12 000 milijardi USD
-4.	Euronext – 3 500 milijardi USD – europska burza smještena u Amsterdamu, Bruxellesu, Londonu, Lisabonu i Parizu. Nastala spajanjem pripadajućih burzi 2000. godine.
-5.	LSE – 3 400 milijardi USD – London Stock Exchange je jedan od najstarijih burza u svijetu. Osim Londona, posjeduje i Milansku burzu. Zajedno s Euronextom, Njemačkom, i Švicarskom burzom, obuhvaćaju preko 10 000 milijardi godišnjeg prometa
-
-Velesile
-Velesila je nacija ili država koja ima sposobnost da vrši svoj utjecaj na globalnoj ljestvici. Velesile posjeduju karakterističnu ekonomsku, vojnu, diplomatsku i kulturnu moć koju mogu upotrijebiti nad manjim nacijama koje bi trebale razmotriti mišljenja velikih sila prije nego poduzmu vlastite akcije.
-
-
 (5) Utjecaj industrijskog razvoja na ekonomiju na prostoru Hrvatske
 (6) Utjecaj industrije na ekonomiju Republike Hrvatske danas
 (7) Zakljucak
-	Istina je, kao što je bilo zdravorazumski pretpostaviti, ekonomija ovisi u visokoj mjeri o industriji. I razvoj industrije, dok god prati načela zaštite okoliša, pratit će razvoj u ekonomiji i tako povećavati standard i kvalitetu života pojedinaca.
-	Kroz daljnji napredak i u ekonomiji, i u industriji, doći ćemo kao čovječanstvo do bolje ideje kako osigurati održivost ekonomije tako da ne bi dolazilo do kriza u ekonomiji što uvijek prati i krah industrije, nakon čega je situacija u zemlji, geopolitičkim savezima i u krajnjem slučaju cijelome svijetu jako teško ispraviti što možemo vidjeti na primjeru Velike recesije 2008. čije posljedice se još uvijek osjete u nekim dijelovima svijeta. Pogotovo u onim zemljama koje ni prije nisu imale dobro postavljene temelje industrije i zbog različitih razloga ekonomiju koja upitno funkcionira.
-	Očitu korelaciju industrije i ekonomije treba "iskoristiti" stvarajući što održiviju industriju kako bi ona mogla doprinijeti stabilizaciji ekonomije u teških trenucima, a inače ju gurati prema rastu i napretku. 
 
 
 
 IZVORI
 ----------------------------------------------
-[1.1] https://en.wikipedia.org/wiki/History_of_money#cite_note-Graeber-46
-[1.2] https://hr.wikipedia.org/wiki/Ekonomija
-[1.3] Paul Samuelson, nobelovac (1915.-2009.)
-[3.1] https://hr.wikipedia.org/wiki/Ekonomija
-[3.2] https://hr.wikipedia.org/wiki/Makroekonomija
-[3.3] https://hr.wikipedia.org/wiki/John_Maynard_Keynes
-[3.4] https://hr.wikipedia.org/wiki/Mikroekonomija
-[3.5] https://hr.wikipedia.org/wiki/Adam_Smith
-[4.1] http://www.prva.hr/images/pdf/LEKCIJA%2013%20-%20INDUSTRIJSKA%20REVOLUCIJA.pdf
-[4.2] https://hr.wikipedia.org/wiki/Velesila
-[4.3] https://finance.hr/tournament/najvece-svjetske-burze-i-banke/
-
+2. 
+-Krahn, Harvey J., and Graham S. Lowe. Work, Industry, and Canadian Society. Second ed. Scarborough, Ont.: Nelson Canada, 1993. xii, 430 pp.
+-Paul Bairoch (1995). Economics and World History: Myths and Paradoxes. University of Chicago Press. p. 95.
+-Ashton, Thomas S. (1948). "The Industrial Revolution (1760–1830)". Oxford University Press. Archived from the original on 12 March 2017.
 
 SLIKE
 ----------------------------------------------
-[slika 1-1] Novac Zhou dinastije (650.g.pr.Kr.) https://en.wikipedia.org/wiki/History_of_money#/media/File:Square_Shoulder_Spade.jpg
-[slika 4.1] Popis velikih sila po razdobljima
+
+
 GRAFOVI
 ----------------------------------------------
 
